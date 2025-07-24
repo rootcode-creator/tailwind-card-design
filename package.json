@@ -2,6 +2,7 @@
   "homepage": "https://rootcode-creator.github.io/tailwind-card-design/",
   "scripts": {
     "start": "vite",
+    "build": "vite build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
