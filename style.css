@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.box{
+    @apply border-8 rounded-4xl border-yellow-500 mx-2 bg-blue-700;
+}
