@@ -1,6 +1,4 @@
-# tailwind-card-design — README
 
-Simple responsive newsletter card web app built with Vite + Tailwind CSS v4 and deployed with GitHub Pages.
 
 ## Table of Contents
 
